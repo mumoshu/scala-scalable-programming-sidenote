@@ -54,6 +54,3 @@ class Concrete extends Abstract {
   var current = initial
 }
 
-
-
-
